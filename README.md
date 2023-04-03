@@ -1,3 +1,5 @@
+[![Node.js CI](https://github.com/hmathieu-insat/POC.AngularPrime/actions/workflows/node.js.yml/badge.svg)](https://github.com/hmathieu-insat/POC.AngularPrime/actions/workflows/node.js.yml) 
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=hmathieu-insat_POC.AngularPrime&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=hmathieu-insat_POC.AngularPrime)
 # POCAngularPrime
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.2.
